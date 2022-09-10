@@ -29,6 +29,15 @@ Download the most recent `Monocraft.otf` file from the [Releases](https://github
 
 ### Mac
 
+#### Using homebrew
+
+```shell
+brew tap homebrew/cask-fonts
+brew install --cask font-monocraft
+```
+
+#### Manually
+
 Download the most recent `Monocraft.otf` file from the [Releases](https://github.com/IdreesInc/Minecraft-Mono/releases) page. Double click on the downloaded font file and select **Install Font** in the window that appears. More help available [here](https://support.apple.com/en-us/HT201749).
 
 ## How to use
